@@ -1,8 +1,8 @@
 1 kjkjk4 56ghf
-2 ghgff 
+2 ghgff - modified also in git_1 branch 
 3 34 457h
 4 jhjg
-5 dg3
+5 dg3 - the same modification as in line 2
 6 3543
 7 kll
 8 f 
